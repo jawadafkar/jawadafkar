@@ -1,16 +1,39 @@
-## Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**jawadafkar/jawadafkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://yourimageurl.com/banner.png)
 
-Here are some ideas to get you started:
+## Hi, I'm Jawad Hussaini!
+🎓 Student at Technical University of Kosice  
+🌍 Based in Slovakia  
+💻 Working on a hiring website and full-stack web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
+
+---
+
+## 🛠️ My Skills
+- **Languages**: JavaScript, Python, SQL
+- **Frameworks**: React, Node.js, Express
+- **Tools**: Git, Docker, VS Code
+
+---
+
+## 🚀 Projects
+### [Hiring Website](https://github.com/jawadafkar)
+A geo-location based website for local, manual labor jobs.
+
+### [Full-Stack Portfolio](https://yourportfolio.com)
+[![Website](https://img.shields.io/badge/Website-Online-green?logo=google-chrome&logoColor=white)](https://#)
+
+---
+
+## 📫 Get in Touch
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
